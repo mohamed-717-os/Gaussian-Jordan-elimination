@@ -1,0 +1,12 @@
+C:\Users\Compustore\source\repos\Linear_Algebra\Linear_Algebra\bin\Debug\Linear_Algebra.exe.config
+C:\Users\Compustore\source\repos\Linear_Algebra\Linear_Algebra\bin\Debug\Linear_Algebra.exe
+C:\Users\Compustore\source\repos\Linear_Algebra\Linear_Algebra\bin\Debug\Linear_Algebra.pdb
+C:\Users\Compustore\source\repos\Linear_Algebra\Linear_Algebra\obj\Debug\Linear_Algebra.csproj.AssemblyReference.cache
+C:\Users\Compustore\source\repos\Linear_Algebra\Linear_Algebra\obj\Debug\Linear_Algebra.csproj.SuggestedBindingRedirects.cache
+C:\Users\Compustore\source\repos\Linear_Algebra\Linear_Algebra\obj\Debug\Linear_Algebra.Form1.resources
+C:\Users\Compustore\source\repos\Linear_Algebra\Linear_Algebra\obj\Debug\Linear_Algebra.Properties.Resources.resources
+C:\Users\Compustore\source\repos\Linear_Algebra\Linear_Algebra\obj\Debug\Linear_Algebra.csproj.GenerateResource.cache
+C:\Users\Compustore\source\repos\Linear_Algebra\Linear_Algebra\obj\Debug\Linear_Algebra.csproj.CoreCompileInputs.cache
+C:\Users\Compustore\source\repos\Linear_Algebra\Linear_Algebra\obj\Debug\Linear_Algebra.exe
+C:\Users\Compustore\source\repos\Linear_Algebra\Linear_Algebra\obj\Debug\Linear_Algebra.pdb
+C:\Users\Compustore\source\repos\Linear_Algebra\Linear_Algebra\obj\Debug\Linear_Algebra.Form2.resources
